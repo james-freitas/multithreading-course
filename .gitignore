@@ -1,8 +1,10 @@
+.classpath
+.project
+/.settings
+/target
 /.idea
 /.idea/*
-*.iml
-/target
-/.settings
-.project
-.classpath
+/.mvn
 /bin
+*.iml
+*.cmd
